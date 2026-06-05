@@ -1,0 +1,8 @@
+{
+  "name": "E-Learning Platform",
+  "description": "A fully featured localized e-learning application like Udemy with course search, comprehensive lecture players with progression checklists, student reviews, and an instructor portal to create and manage courses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
